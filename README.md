@@ -80,5 +80,3 @@ Business Recommendations
 * Expand operations in high-revenue countries
 * Plan inventory based on seasonal demand trends
 
-
-Feel free to star ⭐ this repository and connect with me!
